@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-
 <h3 align="center">passionate Full-Stack Developer (Java/Spring & Angular) from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkr002" alt="saurabhkr002" /></a> </p>
